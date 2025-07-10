@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Shopify Support Hub – Live Expert Help</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f8f9fa;
+      color: #333;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #0a5c54;
+      color: white;
+      padding: 40px 20px;
+      text-align: center;
+    }
+    section {
+      padding: 40px 20px;
+      max-width: 900px;
+      margin: auto;
+    }
+    h1, h2, h3 {
+      color: #0a5c54;
+    }
+    ul {
+      padding-left: 20px;
+    }
+    .testimonial {
+      background-color: #ffffff;
+      border-left: 5px solid #0a5c54;
+      padding: 20px;
+      margin-bottom: 20px;
+    }
+    .cta-buttons {
+      text-align: center;
+      margin: 30px 0;
+    }
+    .cta-buttons a {
+      display: inline-block;
+      background-color: #0a5c54;
+      color: white;
+      padding: 12px 25px;
+      margin: 10px;
+      text-decoration: none;
+      border-radius: 5px;
+    }
+    footer {
+      background-color: #e9ecef;
+      text-align: center;
+      padding: 20px;
+      font-size: 14px;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Shopify Support Hub</h1>
+    <p>Fast Help from Verified Shopify Experts via WhatsApp or Telegram</p>
+  </header>
+
+  <section>
+    <h2>💬 Real-Time Help From Experts</h2>
+    <p>Need immediate help with your Shopify store? Whether you're stuck with a bug, facing setup issues, or looking to customize your store — you're in the right place.</p>
+    <p>We connect you directly with <strong>certified Shopify experts</strong> who provide support in real-time through <strong>WhatsApp or Telegram</strong>.</p>
+
+    <h3>What We Help With:</h3>
+    <ul>
+      <li><strong>Store Setup Support:</strong> Theme installation, payment gateways, product uploads.</li>
+      <li><strong>Bug & Error Fixes:</strong> Layout issues, broken apps, technical errors.</li>
+      <li><strong>Theme Customization:</strong> Design tweaks, branding alignment, performance optimization.</li>
+      <li><strong>Store Growth Guidance:</strong> Trust, conversion, and configuration insights.</li>
+    </ul>
+
+    <h3>🗨️ What Merchants Are Saying</h3>
+    <div class="testimonial">
+      “I got help in under 10 minutes! The expert knew exactly what to do.”  
+      <br><strong>— Ayo, Store Owner</strong>
+    </div>
+    <div class="testimonial">
+      “Was stuck on checkout errors for days. One session on WhatsApp and it was all fixed.”  
+      <br><strong>— Linda, Business Owner</strong>
+    </div>
+
+    <div class="cta-buttons">
+      <a href="https://wa.link/dtunia" target="_blank">Chat on WhatsApp</a>
+      <a href="https://t.me/Shopify_Customer_Support" target="_blank">Chat on Telegram</a>
+    </div>
+
+    <p style="text-align:center;">We're a trusted support partner for Shopify merchants worldwide. Let’s fix your store — fast and friendly.</p>
+  </section>
+
+  <footer>
+    &copy; 2025 Shopify Support Hub (Operated by SHOPIFY). All rights reserved.  
+    <br />Not affiliated with or endorsed by Shopify Inc.  
+    <br />TICKET ID: [SSS244342]
+  </footer>
+
+</body>
+</html>
